@@ -7,7 +7,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url))
 // 项目与 key 配置
 const HOST = 'ladderbenchmark.com'
 const API_ENDPOINT = 'https://api.indexnow.org/indexnow'
-const INDEXNOW_KEY = 'c1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6'
+const INDEXNOW_KEY = '4a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d'
 const KEY_LOCATION = `https://${HOST}/${INDEXNOW_KEY}.txt`
 const SITEMAP_PATH = path.resolve(__dirname, '../docs/.vitepress/dist/sitemap.xml')
 
