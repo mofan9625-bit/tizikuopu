@@ -21,6 +21,12 @@ async function submitIndexNow() {
 
   try {
     const xmlContent = fs.readFileSync(SITEMAP_PATH, 'utf-8')
+    
+    // 同步备份/写入 docs/public/sitemap.xml 以便追踪保存至 Git 仓库
+    const PUBLIC_SITEMAP_PATH = path.resolve(__dirname, '../docs/public/sitemap.xml')
+    fs.writeFileSync(PUBLIC_SITEMAP_PATH, xmlContent, 'utf-8')
+    console.log(`📄 已成功将 sitemap.xml 同步挂载至 docs/public/sitemap.xml`)
+
     const locMatches = [...xmlContent.matchAll(/<loc>(.*?)<\/loc>/g)]
     const urls = locMatches.map(match => match[1]).filter(Boolean)
 
