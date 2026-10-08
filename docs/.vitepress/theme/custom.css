@@ -1,0 +1,120 @@
+/* 极客风格 VitePress 变量与 CSS 深度定制 */
+
+:root {
+  /* 品牌核心色彩 - 极客蓝/蓝紫渐变 */
+  --vp-c-brand-1: #2563eb;
+  --vp-c-brand-2: #3b82f6;
+  --vp-c-brand-3: #60a5fa;
+  --vp-c-brand-soft: rgba(37, 99, 235, 0.12);
+
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(135deg, #2563eb 0%, #06b6d4 100%);
+
+  /* 字体与基础样式 */
+  --vp-font-family-base: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --vp-font-family-mono: "Fira Code", JetBrains Mono, Consolas, Monaco, monospace;
+
+  /* 浅色模式 */
+  --vp-c-bg: #fafafa;
+  --vp-c-bg-alt: #f3f4f6;
+  --vp-c-bg-elv: #ffffff;
+  --vp-c-text-1: #212529;
+  --vp-c-text-2: #4b5563;
+  --vp-c-border: #e5e7eb;
+  --vp-c-gutter: #e5e7eb;
+}
+
+/* 暗色模式 - 纯正深灰/黑底与毛玻璃 */
+.dark {
+  --vp-c-brand-1: #3b82f6;
+  --vp-c-brand-2: #60a5fa;
+  --vp-c-brand-3: #93c5fd;
+  --vp-c-brand-soft: rgba(59, 130, 246, 0.16);
+
+  --vp-home-hero-name-background: linear-gradient(135deg, #60a5fa 0%, #22d3ee 100%);
+
+  --vp-c-bg: #121212;
+  --vp-c-bg-alt: #1a1a1e;
+  --vp-c-bg-elv: #1e1e24;
+  --vp-c-text-1: #f3f4f6;
+  --vp-c-text-2: #9ca3af;
+  --vp-c-border: #27272a;
+  --vp-c-gutter: #27272a;
+}
+
+/* 首页 Hero 区域增强 */
+.VPHero {
+  padding-top: 40px !important;
+  padding-bottom: 40px !important;
+}
+
+.VPHero .name {
+  font-weight: 800 !important;
+  letter-spacing: -0.02em;
+}
+
+.VPHero .tagline {
+  font-size: 1.25rem !important;
+  line-height: 1.75 !important;
+  color: var(--vp-c-text-2);
+}
+
+/* Features 特性卡片 - 微透明半毛玻璃与悬浮提升 */
+.VPFeature {
+  background: var(--vp-c-bg-elv) !important;
+  border: 1px solid var(--vp-c-border) !important;
+  border-radius: 12px !important;
+  backdrop-filter: blur(12px);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+}
+
+.dark .VPFeature {
+  background: rgba(30, 30, 36, 0.75) !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+}
+
+.VPFeature:hover {
+  transform: translateY(-4px);
+  border-color: var(--vp-c-brand-1) !important;
+  box-shadow: 0 12px 24px -10px rgba(37, 99, 235, 0.25) !important;
+}
+
+/* 页面极客表格样式提升 */
+table {
+  display: table !important;
+  width: 100% !important;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+th {
+  background-color: var(--vp-c-bg-alt);
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+}
+
+th, td {
+  padding: 10px 16px;
+  border: 1px solid var(--vp-c-border);
+}
+
+/* 代码块细致调优 */
+div[class*="language-"] {
+  border-radius: 10px !important;
+  border: 1px solid var(--vp-c-border);
+}
+
+/* 隐藏标题旁边的 # 锚点图标 */
+.header-anchor {
+  display: none !important;
+}
+
+/* 提升工具导航页面最大宽度，增强横向呼吸感 */
+.VPContent .container {
+  max-width: 1180px !important;
+}
+
+

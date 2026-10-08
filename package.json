@@ -1,0 +1,30 @@
+{
+  "name": "geek-network-tech-blog",
+  "version": "1.0.0",
+  "description": "高性能现代化极客/网络技术博客 - 专线中继路由优化与前沿网络协议解析",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs --port 3000",
+    "build": "vitepress build docs && node scripts/submit-indexnow.mjs",
+    "preview": "vitepress preview docs",
+    "indexnow": "node scripts/submit-indexnow.mjs"
+  },
+  "keywords": [
+    "vitepress",
+    "network",
+    "geek",
+    "clash",
+    "sing-box",
+    "iplc",
+    "iepl",
+    "hysteria2",
+    "tuic"
+  ],
+  "author": "GeekNetwork Lab",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "vitepress": "^1.5.0",
+    "vue": "^3.5.12"
+  }
+}
