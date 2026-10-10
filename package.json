@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vitepress dev docs --port 3000",
     "build": "vitepress build docs && node scripts/submit-indexnow.mjs",
+    "docs:build": "vitepress build docs",
     "preview": "vitepress preview docs",
     "indexnow": "node scripts/submit-indexnow.mjs"
   },

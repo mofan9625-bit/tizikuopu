@@ -54,7 +54,10 @@ export default defineConfig({
   ],
 
   themeConfig: {
-    logo: '/logo.svg',
+    logo: {
+      src: '/logo.svg',
+      alt: '梯子测速实验室 (LadderBenchmark)'
+    },
     siteTitle: 'NodeLadder Lab | 节点梯子拓扑社',
 
     // 顶部导航栏配置

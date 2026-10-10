@@ -10,7 +10,7 @@ hero:
   tagline: "聚焦物理专线路由、晚高峰抗抖动实测、AI 原生解锁与梯子防坑避雷指南"
   image:
     src: /logo.svg
-    alt: NodeLadder Lab Logo
+    alt: 梯子测速实验室 (LadderBenchmark)
   actions:
     - theme: brand
       text: 查看梯子推荐榜单
