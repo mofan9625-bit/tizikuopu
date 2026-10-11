@@ -14,7 +14,8 @@ const commonSidebar = [
     items: [
       { text: '深度横评与测速概览', link: '/reviews/' },
       { text: '云界线机场 2026 最新深度评测', link: '/reviews/yunjiexian-review' },
-      { text: '大佬云机场 2026 最新深度评测', link: '/reviews/dalaoyun' }
+      { text: '大佬云机场 2026 最新深度评测', link: '/reviews/dalaoyun' },
+      { text: '环球梯机场 2026 最新深度评测', link: '/reviews/huanqiuti-review' }
     ]
   },
   {
