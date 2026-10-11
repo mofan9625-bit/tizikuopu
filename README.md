@@ -36,12 +36,12 @@
 
 |   排名   | 服务商名称     | 线路架构 / 入口               | 起步价格 (折合/月) |    晚高峰可用率    |                流媒体 / AI原生解锁                | 核心特色 / 详细评测入口                                                            |
 | :----: | :-------- | :---------------------- | :---------: | :----------: | :----------------------------------------: | :----------------------------------------------------------------------- |
-| **01** | **[云界线](https://9625mofan01.yunjiexianaff.com/#/?code=OOYhSj0L)** | 全节点 1x 物理 IPLC 内网专线     |    ￥xx /月   | 99.8% (超低抖动) | 4K YouTube / Netflix / Claude / ChatGPT 4o | 独家骨干网不过墙，高峰期 0 丢包。<br>👉 [查看云界线深度评测](https://9625mofan01.yunjiexianaff.com/#/?code=OOYhSj0L)  |
-| **02** | **[大佬云](https://mofanvip01.dalaoyunaff.com/#/?code=QT2rqp5V)** | 全节点 IEPL 专线 + Hysteria2 |    ￥xx /月   |     99.4%    |                原生家庭住宅 IP 解锁                | 性价比首选，支持不限时按量计费。<br>👉 [查看大佬云深度评测](https://mofanvip01.dalaoyunaff.com/#/?code=QT2rqp5V)    |
-| **03** | **[环球梯](https://mofanvip01.huanqiutiaff.com/#/?code=l7oLmjVU)** | 优质多线 BGP 隧道中转           |    ￥xx /月   |     98.6%    |                  主流海外影音全绿                  | 大流量套餐实惠，适合多设备大流量追剧。<br>👉 [查看环球梯深度评测](https://mofanvip01.huanqiutiaff.com/#/?code=l7oLmjVU) |
-| **04** | **[榴莲云](https://mofan88.liulianyunaff.com/#/?code=ETsQBSuR)** | 待实测 | 待补充 | 待实测 | 待实测 | 测试数据持续采集中。<br>👉 [查看榴莲云详情](https://mofan88.liulianyunaff.com/#/?code=ETsQBSuR) |
-| **05** | **[神行加速](https://vipmofan01.shenxingaff.com/#/?code=nn4ohwnK)** | 待实测 | 待补充 | 待实测 | 待实测 | 测试数据持续采集中。<br>👉 [查看神行加速详情](https://vipmofan01.shenxingaff.com/#/?code=nn4ohwnK) |
-| **06** | **[闪电鼠](https://mofanvip01.shandianshuaff.com/#/?code=a3GAQAXg)** | 待实测 | 待补充 | 待实测 | 待实测 | 测试数据持续采集中。<br>👉 [查看闪电鼠详情](https://mofanvip01.shandianshuaff.com/#/?code=a3GAQAXg) |
+| **01** | **[云界线](https://9625mofan01.yunjiexianaff.com/#/?code=OOYhSj0L)** | 全节点 1x 物理 IPLC 内网专线     |    ¥8.00 /月起   | 99.8% (超低抖动) | 4K YouTube / Netflix / Claude / ChatGPT 4o | 独家骨干网不过墙，高峰期 0 丢包。<br>👉 [查看云界线深度评测](https://9625mofan01.yunjiexianaff.com/#/?code=OOYhSj0L)  |
+| **02** | **[大佬云](https://mofanvip01.dalaoyunaff.com/#/?code=QT2rqp5V)** | 全节点 IEPL 专线 + Hysteria2 |    ¥25.00 /月起   |     99.4%    |                原生家庭住宅 IP 解锁                | 性价比首选，支持不限时按量计费。<br>👉 [查看大佬云深度评测](https://mofanvip01.dalaoyunaff.com/#/?code=QT2rqp5V)    |
+| **03** | **[环球梯](https://mofanvip01.huanqiutiaff.com/#/?code=l7oLmjVU)** | 优质多线 BGP 隧道中转           |    ¥18.00 /月起   |     98.6%    |                  主流海外影音全绿                  | 大流量套餐实惠，适合多设备大流量追剧。<br>👉 [查看环球梯深度评测](https://mofanvip01.huanqiutiaff.com/#/?code=l7oLmjVU) |
+| **04** | **[榴莲云](https://mofan88.liulianyunaff.com/#/?code=ETsQBSuR)** | 广深 BGP · IPLC 专线 | ¥15.00 /月起 | 99.2% | 主流流媒体 / AI 生产力全解锁 | 高性价比 IPLC 专线，三网低延迟优化。<br>👉 [查看榴莲云详情](https://mofan88.liulianyunaff.com/#/?code=ETsQBSuR) |
+| **05** | **[神行加速](https://vipmofan01.shenxingaff.com/#/?code=nn4ohwnK)** | 企业级内网物理专线 | ¥22.00 /月起 | 99.1% | ChatGPT / Claude / Cursor 原生解锁 | 企业级内网专线保障，高并发低抖动。<br>👉 [查看神行加速详情](https://vipmofan01.shenxingaff.com/#/?code=nn4ohwnK) |
+| **06** | **[闪电鼠](https://mofanvip01.shandianshuaff.com/#/?code=a3GAQAXg)** | 极速 IPLC 专线 | ¥19.00 /月起 | 99.0% | 主流海外影音 / AI 全解锁 | 大带宽极速物理专线，支持多端并发。<br>👉 [查看闪电鼠详情](https://mofanvip01.shandianshuaff.com/#/?code=a3GAQAXg) |
 
 > 📌 **完整版 30+ 机场红黑榜名单及实时可用性状态**：请访问主站实时监控面板：[https://ladderbenchmark.com](https://ladderbenchmark.com)
 
