@@ -26,7 +26,7 @@ tags: [大佬云, 机场评测, IPLC专线, 晚高峰测速, AI解锁]
 | **主打套餐** | **¥25.00/月 · 200GB 高速流量** | 单 G 价格低至 **¥0.12**，性价比极高 |
 | **设备限制** | **不限制同时在线设备数** | 适合多设备极客、家庭共享及多端开发 |
 | **落地纯净度** | 原生住宅 IP 落地，全平台流媒体与 AI 解锁 | IPQS 欺诈分极低，100% 避免 1020 报错 |
-| **官方直达** | <a href="https://mofanvip01.dalaoyunaff.com/#/?code=QT2rqp5V" target="_blank" rel="noopener">大佬云官网直达入口 ↗</a> | 支持一键导入 Clash / Sing-box 订阅 |
+| **官方直达** | <a href="https://mofanvip01.dalaoyunaff.com/#/?code=QT2rqp5V" target="_blank" rel="nofollow sponsored noopener noreferrer">大佬云官网直达入口 ↗</a> | 支持一键导入 Clash / Sing-box 订阅 |
 
 ---
 
@@ -110,4 +110,4 @@ tags: [大佬云, 机场评测, IPLC专线, 晚高峰测速, AI解锁]
 > - 对于日常需要使用 **ChatGPT、Claude 进行 AI 编程**，或需要在晚高峰流畅观看 **YouTube / Netflix 4K** 的用户，推荐直接选择 **¥25.00/月 (200GB 流量)** 主打套餐。  
 > - 遵循本站[`免责声明`](/about/disclaimer)倡导的“先月付体验、满意再长付”原则。
 
-🔗 **大佬云官方注册与订阅直达**：<a href="https://mofanvip01.dalaoyunaff.com/#/?code=QT2rqp5V" target="_blank" rel="noopener">点击此处直达大佬云官网 ↗</a>
+🔗 **大佬云官方注册与订阅直达**：<a href="https://mofanvip01.dalaoyunaff.com/#/?code=QT2rqp5V" target="_blank" rel="nofollow sponsored noopener noreferrer">点击此处直达大佬云官网 ↗</a>

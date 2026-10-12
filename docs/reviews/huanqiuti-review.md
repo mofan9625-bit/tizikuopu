@@ -57,7 +57,7 @@ tags: [环球梯机场, 2026最新评测, 晚高峰测速, Hysteria2, 抗弱网�
 | **大流量旗舰版** | `¥78.00/月` | 800 GB | 10.0 Gbps | 不限制 | 跨境电商团队、工作室多端并发下载 |
 
 > 💡 **专属折扣与优惠码**：在结账页面输入限时优惠码 **`hqt888`**，即可立享全场订阅专属优惠。  
-> 🔗 **官方注册直达入口**：<a href="https://mofanvip01.huanqiutiaff.com/#/?code=l7oLmjVU" target="_blank" rel="noopener">环球梯官网直达链接 ↗</a>
+> 🔗 **官方注册直达入口**：<a href="https://mofanvip01.huanqiutiaff.com/#/?code=l7oLmjVU" target="_blank" rel="nofollow sponsored noopener noreferrer">环球梯官网直达链接 ↗</a>
 
 ---
 
