@@ -110,4 +110,7 @@ tags: [大佬云, 机场评测, IPLC专线, 晚高峰测速, AI解锁]
 > - 对于日常需要使用 **ChatGPT、Claude 进行 AI 编程**，或需要在晚高峰流畅观看 **YouTube / Netflix 4K** 的用户，推荐直接选择 **¥25.00/月 (200GB 流量)** 主打套餐。  
 > - 遵循本站[`免责声明`](/about/disclaimer)倡导的“先月付体验、满意再长付”原则。
 
+> 📊 **全网跑分横评**：想查看该节点在三网晚高峰千兆压测中的完整天梯排名与丢包率对比？欢迎查阅本站核心报告：[《2026 梯子与机场物理链路拓扑实测：六大主流品牌晚高峰天梯榜》](/reviews/)。
+
 🔗 **大佬云官方注册与订阅直达**：<a href="https://mofanvip01.dalaoyunaff.com/#/?code=QT2rqp5V" target="_blank" rel="nofollow sponsored noopener noreferrer">点击此处直达大佬云官网 ↗</a>
+

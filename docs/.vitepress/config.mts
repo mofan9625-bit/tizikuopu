@@ -13,6 +13,7 @@ const commonSidebar = [
     text: '深度协议与线路横评',
     items: [
       { text: '深度横评与测速概览', link: '/reviews/' },
+      { text: '🏆 2026 主流机场晚高峰天梯榜', link: '/reviews/2026-ladder-benchmark-topology-ranking' },
       { text: '云界线机场 2026 最新深度评测', link: '/reviews/yunjiexian-review' },
       { text: '大佬云机场 2026 最新深度评测', link: '/reviews/dalaoyun' },
       { text: '环球梯机场 2026 最新深度评测', link: '/reviews/huanqiuti-review' },
