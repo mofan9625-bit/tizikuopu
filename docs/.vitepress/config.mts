@@ -14,6 +14,8 @@ const commonSidebar = [
     items: [
       { text: '深度横评与测速概览', link: '/reviews/' },
       { text: '🏆 2026 主流机场晚高峰天梯榜', link: '/reviews/2026-ladder-benchmark-topology-ranking' },
+      { text: '🚀 2026 千兆极限吞吐与带宽天梯榜', link: '/reviews/gigabit-throughput-bandwidth-benchmark' },
+      { text: '⚡ 2026 全国各省节点延迟与Ping天梯榜', link: '/reviews/ping-latency-jitter-routing-benchmark' },
       { text: '云界线机场 2026 最新深度评测', link: '/reviews/yunjiexian-review' },
       { text: '大佬云机场 2026 最新深度评测', link: '/reviews/dalaoyun' },
       { text: '环球梯机场 2026 最新深度评测', link: '/reviews/huanqiuti-review' },
