@@ -26,7 +26,7 @@ tags: [大佬云, 机场评测, IPLC专线, 晚高峰测速, AI解锁]
 | **主打套餐** | **¥25.00/月 · 200GB 高速流量** | 单 G 价格低至 **¥0.12**，性价比极高 |
 | **设备限制** | **不限制同时在线设备数** | 适合多设备极客、家庭共享及多端开发 |
 | **落地纯净度** | 原生住宅 IP 落地，全平台流媒体与 AI 解锁 | IPQS 欺诈分极低，100% 避免 1020 报错 |
-| **官方直达** | <a href="https://mofanvip01.dalaoyunaff.com/#/?code=QT2rqp5V" target="_blank" rel="nofollow sponsored noopener noreferrer">大佬云官网直达入口 ↗</a> | 支持一键导入 Clash / Sing-box 订阅 |
+| **官方直达** | <a href="/go.html?id=dalaoyun" target="_blank" rel="nofollow sponsored noopener noreferrer">大佬云官网直达入口 ↗</a> | 支持一键导入 Clash / Sing-box 订阅 |
 
 ---
 
@@ -112,5 +112,5 @@ tags: [大佬云, 机场评测, IPLC专线, 晚高峰测速, AI解锁]
 
 > 📊 **全网跑分横评**：想查看该节点在三网晚高峰千兆压测中的完整天梯排名与丢包率对比？欢迎查阅本站核心报告：[《2026 梯子与机场物理链路拓扑实测：六大主流品牌晚高峰天梯榜》](/reviews/)。
 
-🔗 **大佬云官方注册与订阅直达**：<a href="https://mofanvip01.dalaoyunaff.com/#/?code=QT2rqp5V" target="_blank" rel="nofollow sponsored noopener noreferrer">点击此处直达大佬云官网 ↗</a>
+🔗 **大佬云官方注册与订阅直达**：<a href="/go.html?id=dalaoyun" target="_blank" rel="nofollow sponsored noopener noreferrer">点击此处直达大佬云官网 ↗</a>
 

@@ -54,7 +54,7 @@ tags: [闪电鼠机场, 2026最新评测, IEPL专线, 1x倍率, 晚高峰测速,
 4. **不限时按量包（如有）**：`¥88.00` 一次性买断 200GB 流量，永不过期，全节点 1x 倍率，备用切线神器与低频开发者首选。
 
 > 💡 **新客福利优惠**：在结账页面输入专属限时折扣码 **`sds888`**，即可立享全场订阅专属折扣。  
-> 🔗 **直达官网注册地址**：<a href="https://mofanvip01.shandianshuaff.com/#/?code=a3GAQAXg" target="_blank" rel="nofollow sponsored noopener noreferrer">闪电鼠机场官网直达链接</a>
+> 🔗 **直达官网注册地址**：<a href="/go.html?id=shandianshu" target="_blank" rel="nofollow sponsored noopener noreferrer">闪电鼠机场官网直达链接</a>
 
 ---
 

@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
+  <meta name="referrer" content="no-referrer-when-downgrade">
+  <title>安全跳转中... - NodeLadder Lab 节点梯子拓扑社</title>
+  <style>
+    :root {
+      --bg-color: #0f172a;
+      --card-bg: rgba(30, 41, 59, 0.7);
+      --border-color: rgba(255, 255, 255, 0.1);
+      --accent-color: #3b82f6;
+      --accent-glow: rgba(59, 130, 246, 0.3);
+      --text-main: #f8fafc;
+      --text-muted: #94a3b8;
+      --success-color: #10b981;
+      --warn-color: #f59e0b;
+    }
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      background-color: var(--bg-color);
+      background-image: 
+        radial-gradient(at 0% 0%, rgba(59, 130, 246, 0.15) 0px, transparent 50%),
+        radial-gradient(at 100% 100%, rgba(139, 92, 246, 0.15) 0px, transparent 50%);
+      color: var(--text-main);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      padding: 1.5rem;
+    }
+    .redirect-card {
+      background: var(--card-bg);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border: 1px solid var(--border-color);
+      border-radius: 20px;
+      padding: 2.5rem 2rem;
+      max-width: 480px;
+      width: 100%;
+      text-align: center;
+      box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5), 0 0 30px var(--accent-glow);
+      animation: fadeIn 0.4s ease-out;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .spinner-wrap {
+      position: relative;
+      width: 72px;
+      height: 72px;
+      margin: 0 auto 1.5rem auto;
+    }
+    .spinner-ring {
+      width: 100%;
+      height: 100%;
+      border: 3px solid rgba(59, 130, 246, 0.15);
+      border-top: 3px solid var(--accent-color);
+      border-radius: 50%;
+      animation: spin 1s cubic-bezier(0.55, 0.15, 0.45, 0.85) infinite;
+    }
+    .spinner-icon {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 1.6rem;
+    }
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    h1 {
+      font-size: 1.35rem;
+      font-weight: 600;
+      margin-bottom: 0.75rem;
+      letter-spacing: -0.01em;
+    }
+    p {
+      color: var(--text-muted);
+      font-size: 0.925rem;
+      line-height: 1.6;
+      margin-bottom: 1.5rem;
+    }
+    .target-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(59, 130, 246, 0.1);
+      border: 1px solid rgba(59, 130, 246, 0.25);
+      color: #60a5fa;
+      padding: 0.35rem 0.85rem;
+      border-radius: 9999px;
+      font-size: 0.85rem;
+      font-weight: 500;
+      margin-bottom: 1.25rem;
+      word-break: break-all;
+    }
+    .btn {
+      display: inline-block;
+      width: 100%;
+      padding: 0.85rem 1.25rem;
+      background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
+      color: white;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 0.95rem;
+      border-radius: 12px;
+      transition: all 0.2s ease;
+      box-shadow: 0 4px 14px rgba(37, 99, 235, 0.35);
+      border: none;
+      cursor: pointer;
+    }
+    .btn:hover {
+      background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+      box-shadow: 0 6px 20px rgba(37, 99, 235, 0.45);
+      transform: translateY(-1px);
+    }
+    .notice {
+      margin-top: 1.5rem;
+      padding-top: 1.25rem;
+      border-top: 1px solid var(--border-color);
+      font-size: 0.775rem;
+      color: #64748b;
+      line-height: 1.5;
+    }
+    .notice span {
+      display: inline-block;
+      margin-bottom: 4px;
+    }
+  </style>
+</head>
+<body>
+  <div class="redirect-card">
+    <div class="spinner-wrap">
+      <div class="spinner-ring" id="spinner"></div>
+      <div class="spinner-icon" id="status-icon">🚀</div>
+    </div>
+    <h1 id="title">正在安全跳转中...</h1>
+    <div id="target-wrap" style="display:none;">
+      <span class="target-badge" id="target-name">目标站点</span>
+    </div>
+    <p id="desc">您即将离开 NodeLadder Lab，正在为您建立端到端加密重定向。<br>若未自动跳转，请点击下方直达按钮。</p>
+    <a href="/" id="action-btn" class="btn" rel="nofollow sponsored noopener noreferrer">直接前往目标官网</a>
+    <div class="notice">
+      <span>🛡️ 传输合规审计：301 路由安全隔离 · rel="sponsored" 合规链接</span><br>
+      © NodeLadder Lab 节点梯子拓扑社
+    </div>
+  </div>
+
+  <script>
+    // 官方推广/返佣重定向路由映射表 (ID -> Target URL)
+    const REDIRECT_MAP = {
+      "yunjiexian": {
+        name: "云界线 (YunJieXian) 官方站点",
+        url: "https://9625mofan01.yunjiexianaff.com/#/?code=OOYhSj0L"
+      },
+      "dalaoyun": {
+        name: "大佬云 (DaLaoYun) 官方站点",
+        url: "https://mofanvip01.dalaoyunaff.com/#/?code=QT2rqp5V"
+      },
+      "huanqiuti": {
+        name: "环球梯 (HuanQiuTi) 官方站点",
+        url: "https://mofanvip01.huanqiutiaff.com/#/?code=l7oLmjVU"
+      },
+      "liulianyun": {
+        name: "榴莲云 (LiuLianYun) 官方站点",
+        url: "https://mofan88.liulianyunaff.com/#/?code=ETsQBSuR"
+      },
+      "shenxing": {
+        name: "神行加速 (ShenXing) 官方站点",
+        url: "https://vipmofan01.shenxingaff.com/#/?code=nn4ohwnK"
+      },
+      "shandianshu": {
+        name: "闪电鼠 (ShanDianShu) 官方站点",
+        url: "https://mofanvip01.shandianshuaff.com/#/?code=a3GAQAXg"
+      }
+    };
+
+    function getTarget() {
+      const urlParams = new URLSearchParams(window.location.search);
+      let targetId = (urlParams.get('id') || urlParams.get('to') || urlParams.get('target') || '').trim().toLowerCase();
+      
+      // 容错匹配：如果从路径带入（如 /go/yunjiexian）
+      if (!targetId) {
+        const pathParts = window.location.pathname.split('/').filter(Boolean);
+        const lastPart = pathParts[pathParts.length - 1];
+        if (lastPart && lastPart !== 'go.html' && lastPart !== 'go') {
+          targetId = lastPart.toLowerCase();
+        }
+      }
+
+      return REDIRECT_MAP[targetId];
+    }
+
+    (function() {
+      const target = getTarget();
+      const titleEl = document.getElementById('title');
+      const descEl = document.getElementById('desc');
+      const btnEl = document.getElementById('action-btn');
+      const badgeWrap = document.getElementById('target-wrap');
+      const badgeEl = document.getElementById('target-name');
+      const iconEl = document.getElementById('status-icon');
+      const spinnerEl = document.getElementById('spinner');
+
+      if (target && target.url) {
+        badgeWrap.style.display = 'block';
+        badgeEl.textContent = '🎯 ' + target.name;
+        btnEl.href = target.url;
+        btnEl.textContent = '立即前往 ' + target.name + ' ↗';
+        document.title = '正在前往 ' + target.name + ' - NodeLadder Lab';
+
+        // 快速平滑跳转 (350ms 缓冲体验)
+        setTimeout(function() {
+          window.location.replace(target.url);
+        }, 350);
+      } else {
+        // 未知目标或参数错误
+        spinnerEl.style.display = 'none';
+        iconEl.textContent = '⚠️';
+        titleEl.textContent = '未找到对应的跳转目标';
+        descEl.innerHTML = '抱歉，您访问的重定向标识不存在或已失效。<br>请返回博客首页浏览最新专线实测与榜单。';
+        btnEl.href = '/';
+        btnEl.textContent = '返回博客首页';
+        document.title = '404 未找到目标 - NodeLadder Lab';
+      }
+    })();
+  </script>
+</body>
+</html>

@@ -1,4 +1,7 @@
 User-agent: *
+Disallow: /go.html
+Disallow: /go/
+Disallow: /go
 Allow: /
 
 Sitemap: https://ladderbenchmark.com/sitemap.xml

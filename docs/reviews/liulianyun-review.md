@@ -54,7 +54,7 @@ tags: [榴莲云, 2026最新评测, IPLC物理专线, 2.5Gbps带宽, 750GB大包
 4. **不限时按量包（如有）**：`¥85.00` 一次性买断 200GB 流量，永不过期，全节点 1x 纯 IPLC 物理专线，高吞吐高容灾备用利器。
 
 > 💡 **新客福利优惠**：在结账页面输入专属优惠码 **`lly888`**，即可立享全场订阅专属折扣。  
-> 🔗 **直达官网注册地址**：<a href="https://mofan88.liulianyunaff.com/#/?code=ETsQBSuR" target="_blank" rel="nofollow sponsored noopener noreferrer">榴莲云官网直达链接</a>
+> 🔗 **直达官网注册地址**：<a href="/go.html?id=liulianyun" target="_blank" rel="nofollow sponsored noopener noreferrer">榴莲云官网直达链接</a>
 
 ---
 
