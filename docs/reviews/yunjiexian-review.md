@@ -55,7 +55,7 @@ tags: [云界线机场, 2026最新评测, 晚高峰测速, 专线体验, IEPL专
 5. **闲云·随心包 (不限时)**：`¥99.00` 一次性买断 300GB 流量，永不过期，备用切线神器。
 
 > 💡 **新客福利优惠**：在结账页面输入专属优惠码 **`yjx888`**，即可享受折扣优惠。  
-> 🔗 **直达官网注册地址**：<a href="/go.html?id=yunjiexian" target="_blank" rel="nofollow sponsored noopener noreferrer">云界线机场官网直达链接</a>
+> 🔗 **直达官网注册地址**：<a href="/go/yunjiexian" target="_blank" rel="nofollow sponsored noopener noreferrer">云界线机场官网直达链接</a>
 
 ---
 

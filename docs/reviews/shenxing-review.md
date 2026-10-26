@@ -54,7 +54,7 @@ tags: [神行加速, 2026最新评测, BGP中转, FullConeNAT, 电竞加速, 晚
 4. **不限时按量包（如有）**：`¥108.00` 一次性买断 300GB 不限时按量流量，永不过期，全节点电竞级 UDP 支持，长效高品质冷备。
 
 > 💡 **新客福利优惠**：在结账页面输入专属优惠码 **`sx888`**，即可立享全场订阅阶梯折扣。  
-> 🔗 **直达官网注册地址**：<a href="/go.html?id=shenxing" target="_blank" rel="nofollow sponsored noopener noreferrer">神行加速官网直达链接</a>
+> 🔗 **直达官网注册地址**：<a href="/go/shenxing" target="_blank" rel="nofollow sponsored noopener noreferrer">神行加速官网直达链接</a>
 
 ---
 

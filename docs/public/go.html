@@ -218,10 +218,12 @@
         btnEl.textContent = '立即前往 ' + target.name + ' ↗';
         document.title = '正在前往 ' + target.name + ' - NodeLadder Lab';
 
-        // 快速平滑跳转 (350ms 缓冲体验)
-        setTimeout(function() {
+        // 立即安全重定向
+        try {
           window.location.replace(target.url);
-        }, 350);
+        } catch (e) {
+          window.location.href = target.url;
+        }
       } else {
         // 未知目标或参数错误
         spinnerEl.style.display = 'none';

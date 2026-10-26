@@ -6,7 +6,7 @@ if sys.platform == 'win32':
     sys.stdout.reconfigure(encoding='utf-8')
 
 docs_dir = r"docs"
-link_regex = re.compile(r'<a\s+([^>]*?)href=["\'](/go\.html\?id=([a-zA-Z0-9_-]+))["\']([^>]*?)>(.*?)</a>', re.DOTALL | re.IGNORECASE)
+link_regex = re.compile(r'<a\s+([^>]*?)href=["\'](/go(?:/|\.html\?id=)([a-zA-Z0-9_-]+))["\']([^>]*?)>(.*?)</a>', re.DOTALL | re.IGNORECASE)
 
 # 验证映射表定义
 KNOWN_IDS = {"yunjiexian", "dalaoyun", "huanqiuti", "liulianyun", "shenxing", "shandianshu"}
