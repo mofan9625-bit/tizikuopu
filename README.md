@@ -3,7 +3,6 @@
 > 专注于 **稳定网络专线推荐**、**网络节点测评**、**高速 IPLC/IEPL 物理专线分析** 与 **网络连接避坑指南**。全网独立自费晚高峰压测，解决跨境办公与海外网络访问痛点。
 >
 > 🌐 **官方博客主站**：[https://ladderbenchmark.com](https://ladderbenchmark.com)  
-> 📢 **Telegram 交流频道**：[@mofa8899](https://t.me/mofa8899)  
 > 🏷️ **核心支持**：`Clash Verge Rev` | `Sing-box` | `Shadowrocket` | `Mihomo Party` | `Surge`
 
 ---
