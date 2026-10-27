@@ -1,5 +1,5 @@
 ---
-title: "Midjourney 2026 深度使用指南：AI 绘画、Discord/Web 接入与网络中继加速"
+title: "Midjourney 2026 使用指南：AI 绘画、Discord/Web 与网络加速"
 description: "全面拆解 Midjourney v6/v7 核心画质优势、Web 网页版使用、Discord 频道交互与 WebSocket 规则分流网络加速指南。"
 date: "2026-10-08"
 tags: [Midjourney, AI绘画, Discord, 提示词, 规则分流, 网络优化]

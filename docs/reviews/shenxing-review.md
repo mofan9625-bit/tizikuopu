@@ -1,5 +1,5 @@
 ---
-title: "神行加速 2026 最新深度评测：BGP 高速中转 + 电竞级 FullCone NAT 晚高峰抗弱网压测"
+title: "神行加速 2026 深度评测：BGP 高速中转与 FullCone NAT 晚高峰压测"
 description: "深度实测神行加速 2026 最新网络表现：多线 BGP 高速中转、电竞级 FullCone NAT 极低延迟打洞、Steam/外服游戏零丢包联机及 4K 追剧办公多场景评测。"
 date: "2026-10-13"
 tags: [神行加速, 2026最新评测, BGP中转, FullConeNAT, 电竞加速, 晚高峰测速]

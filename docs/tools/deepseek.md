@@ -1,5 +1,5 @@
 ---
-title: "DeepSeek (深度求索) 深度使用指南：R1/V3 推理模型、Ollama 部署与 API 接入"
+title: "DeepSeek 深度使用指南：R1/V3 模型、Ollama 部署与 API 接入"
 description: "全面拆解 DeepSeek-R1 / V3 开源大模型优势、开源授权、Ollama 本地部署、Web/API 接入及规则分流配置指南。"
 date: "2026-10-08"
 tags: [DeepSeek, 深度求索, DeepSeek-R1, 开源大模型, Ollama, 规则分流]
