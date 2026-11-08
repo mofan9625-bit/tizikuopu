@@ -9,7 +9,10 @@ docs_dir = r"docs"
 link_regex = re.compile(r'<a\s+([^>]*?)href=["\'](/go(?:/|\.html\?id=)([a-zA-Z0-9_-]+))["\']([^>]*?)>(.*?)</a>', re.DOTALL | re.IGNORECASE)
 
 # 验证映射表定义
-KNOWN_IDS = {"yunjiexian", "dalaoyun", "huanqiuti", "liulianyun", "shenxing", "shandianshu"}
+KNOWN_IDS = {
+    "yunjiexian", "dalaoyun", "huanqiuti", "liulianyun", "shenxing", "shandianshu",
+    "kexin", "bianyuan", "sujie", "kuaili"
+}
 
 total_links = 0
 file_counts = {}
@@ -58,4 +61,4 @@ if compliance_issues:
         print(f"  - {issue}")
     sys.exit(1)
 else:
-    print("\n[SUCCESS] 所有 301 内链 ID 均在映射表中，且 100% 具备 rel=\"nofollow sponsored noopener noreferrer\"！")
+    print("\n[SUCCESS] 所有 AFF 内链 ID 均在映射表中，且 100% 具备 rel=\"nofollow sponsored noopener noreferrer\"！")

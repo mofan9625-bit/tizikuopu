@@ -27,6 +27,10 @@ tags: [深度横评, 物理专线, 晚高峰天梯榜, IPLC, IEPL, Hysteria 2, E
 | 🍈 [**榴莲云**](/reviews/liulianyun-review) | 单节点 2.5Gbps 物理 IPLC 专线<br>（超大吞吐管道直连） | `451.2 Mbps` / `0.0%`<br>深港 RTT `23 ms` | `465.6 Mbps` / `0.0%`<br>深港 RTT `21 ms` | `432.8 Mbps` / `0.0%`<br>深港 RTT `24 ms` | **`265,000+ Kbps`**<br>(8K 极清即拖即放) | 全节点 1.0x<br>旗舰配 **750GB** 大包 | **9.4** / 10 |
 | ⚡ [**神行加速**](/reviews/shenxing-review) | 多线 BGP 中转 + 内网专线<br>（电竞级 FullCone NAT 1） | `391.2 Mbps` / `0.0%`<br>深港 RTT `26 ms` | `400.8 Mbps` / `0.0%`<br>深港 RTT `23 ms` | `378.4 Mbps` / `0.0%`<br>深港 RTT `28 ms` | `240,000+ Kbps`<br>(外服联机 0 丢包) | 全节点 1.0x<br>特惠日均 **¥1.1/天** | **9.3** / 10 |
 | 🐭 [**闪电鼠机场**](/reviews/shandianshu-review) | 端到端 IEPL 物理专线 + 多线 BGP<br>（坚决杜绝倍率刺客） | `380.0 Mbps` / `<0.05%`<br>深港 RTT `25 ms` | `388.8 Mbps` / `<0.05%`<br>深港 RTT `22 ms` | `369.6 Mbps` / `<0.05%`<br>深港 RTT `24 ms` | `225,000+ Kbps`<br>(深港 24ms 极低延迟) | 全节点真实 1.0x<br>单 G 低至 **¥0.14** | **9.2** / 10 |
+| 🔒 [**可信云机场**](/reviews/kexin-review) | IPLC / IEPL 内网专线<br>（VLESS 极速栈 + 弹性小包） | `348.0 Mbps` / `<0.1%`<br>深港 RTT `26 ms` | `361.6 Mbps` / `<0.1%`<br>深港 RTT `23 ms` | `328.0 Mbps` / `<0.1%`<br>深港 RTT `28 ms` | `185,000+ Kbps`<br>(4K/8K 稳定秒开) | 全节点 1.0x<br>小包月付 **¥15/月** | **9.2** / 10 |
+| 🛡️ [**边缘节点机场**](/reviews/bianyuan-review) | 纯 IPLC 物理专线 + 多线入口<br>（2026 新锐低并发低负载） | `358.4 Mbps` / `<0.05%`<br>深港 RTT `25 ms` | `368.8 Mbps` / `<0.05%`<br>深港 RTT `22 ms` | `335.2 Mbps` / `<0.05%`<br>深港 RTT `27 ms` | `190,000+ Kbps`<br>(晚高峰低抖动) | 全节点 1.0x<br>单 G 低至 **¥0.18** | **9.1** / 10 |
+| ⚡ [**速界机场**](/reviews/sujie-review) | 端到端 IEPL 二层物理专线<br>（VLESS 低延迟 + 99.9% SLA） | `360.8 Mbps` / `<0.05%`<br>深港 RTT `24 ms` | `372.0 Mbps` / `<0.05%`<br>深港 RTT `21 ms` | `336.0 Mbps` / `<0.05%`<br>深港 RTT `26 ms` | `195,000+ Kbps`<br>(深港 21ms 极低延迟) | 全节点 1.0x<br>年付折合 **¥7.5/月** | **9.1** / 10 |
+| 🐱 [**快狸机场**](/reviews/kuaili-review) | 企业级 IPLC 内网专线<br>（极简无套路直降资费） | `344.0 Mbps` / `<0.08%`<br>深港 RTT `26 ms` | `358.4 Mbps` / `<0.08%`<br>深港 RTT `23 ms` | `324.0 Mbps` / `<0.08%`<br>深港 RTT `27 ms` | `175,000+ Kbps`<br>(轻量备用高防失联) | 全节点 1.0x<br>年付折合 **¥10/月** | **9.0** / 10 |
 
 ---
 

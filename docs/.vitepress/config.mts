@@ -21,7 +21,11 @@ const commonSidebar = [
       { text: '环球梯机场 2026 最新深度评测', link: '/reviews/huanqiuti-review' },
       { text: '闪电鼠机场 2026 最新深度评测', link: '/reviews/shandianshu-review' },
       { text: '神行加速 2026 最新深度评测', link: '/reviews/shenxing-review' },
-      { text: '榴莲云 2026 最新深度评测', link: '/reviews/liulianyun-review' }
+      { text: '榴莲云 2026 最新深度评测', link: '/reviews/liulianyun-review' },
+      { text: '可信云机场 2026 最新深度评测', link: '/reviews/kexin-review' },
+      { text: '边缘节点机场 2026 最新深度评测', link: '/reviews/bianyuan-review' },
+      { text: '速界机场 2026 最新深度评测', link: '/reviews/sujie-review' },
+      { text: '快狸机场 2026 最新深度评测', link: '/reviews/kuaili-review' }
     ]
   },
   {
