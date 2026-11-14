@@ -6,6 +6,8 @@ const commonSidebar = [
     text: '梯子选型与推荐',
     items: [
       { text: '🏆 2026 高质量梯子推荐排行榜', link: '/recommend/' },
+      { text: '🌐 2026 高质量梯子节点选购指南', link: '/guide/ladder-nodes-guide' },
+      { text: '📖 2026 梯子推荐场景选型全攻略', link: '/guide/ladder-recommendation-handbook' },
       { text: '⚡ 2026 稳定率最高的梯子推荐', link: '/guide/stable-ladder-recommend' },
       { text: '🤖 2026 支持 ChatGPT 的梯子推荐', link: '/guide/chatgpt-claude-ai-ladder' },
       { text: '🛡️ 2026 梯子选型与防坑指南', link: '/guide/avoid-pitfalls' }
