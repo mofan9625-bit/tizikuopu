@@ -69,17 +69,55 @@ features:
 
 > 跳出单一维度的跑分对比，针对梯子节点选型、真实预算分配、AI 开发工具与晚高峰抗抖动专项攻坚：
 
-- 🌐 **[高质量梯子节点选购指南：香港/日本/美区原生专线节点实测](/guide/ladder-nodes-guide)**  
-  *核心看点：深港 20ms、沪日 30ms 物理专线节点延迟解析，美区原生住宅 IP 纯净度检测与节点变红排障实操。*
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1.25rem; margin: 1.5rem 0 3.5rem 0;">
+<a href="/guide/chatgpt-claude-ai-ladder" style="display: flex; flex-direction: column; justify-content: space-between; padding: 1.5rem; border-radius: 12px; border: 1px solid var(--vp-c-border); background: var(--vp-c-bg-soft); text-decoration: none; color: inherit;">
+<div>
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.75rem;">
+<span style="font-size: 0.8rem; font-weight: 600; padding: 2px 8px; border-radius: 6px; background: rgba(16, 185, 129, 0.12); color: #10b981;">🤖 AI 大模型专线</span>
+<span style="font-size: 0.8rem; color: var(--vp-c-text-3);">IPQS &lt; 15 原生广播</span>
+</div>
+<div style="font-size: 1.05rem; font-weight: 700; color: var(--vp-c-text-1); margin-bottom: 0.5rem; line-height: 1.4;">2026 支持 ChatGPT 与 Claude 高质量梯子推荐</div>
+<div style="font-size: 0.88rem; color: var(--vp-c-text-2); line-height: 1.6;">彻底搞懂 OpenAI 与 Claude 威胁情报风控机理，选用原生住宅广播专线与专属分流，告别 1020 报错。</div>
+</div>
+<div style="margin-top: 1.25rem; font-size: 0.88rem; font-weight: 600; color: var(--vp-c-brand-1);">查阅专项指南 →</div>
+</a>
 
-- 📖 **[梯子推荐场景选型全攻略：按预算、设备与真实场景选梯子实用指南](/guide/ladder-recommendation-handbook)**  
-  *核心看点：按学生党 ¥15/月 轻量尝鲜、极客开发 AI 办公、外贸跨境出海团队定制分级，全平台客户端最佳搭配。*
+<a href="/guide/stable-ladder-recommend" style="display: flex; flex-direction: column; justify-content: space-between; padding: 1.5rem; border-radius: 12px; border: 1px solid var(--vp-c-border); background: var(--vp-c-bg-soft); text-decoration: none; color: inherit;">
+<div>
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.75rem;">
+<span style="font-size: 0.8rem; font-weight: 600; padding: 2px 8px; border-radius: 6px; background: rgba(59, 130, 246, 0.12); color: #3b82f6;">⚡ 晚高峰抗阻断</span>
+<span style="font-size: 0.8rem; color: var(--vp-c-text-3);">0 丢包长连接</span>
+</div>
+<div style="font-size: 1.05rem; font-weight: 700; color: var(--vp-c-text-1); margin-bottom: 0.5rem; line-height: 1.4;">2026 稳定率最高的梯子怎么选？三网晚高峰 0 丢包推荐</div>
+<div style="font-size: 0.88rem; color: var(--vp-c-text-2); line-height: 1.6;">解密晚高峰骨干网 QoS 激进化真相，横评 IPLC/IEPL 端到端物理专线长连接抗阻断机制。</div>
+</div>
+<div style="margin-top: 1.25rem; font-size: 0.88rem; font-weight: 600; color: var(--vp-c-brand-1);">查阅专项指南 →</div>
+</a>
 
-- 🤖 **[2026 支持 ChatGPT 与 Claude 的高质量梯子推荐：告别 1020 报错](/guide/chatgpt-claude-ai-ladder)**  
-  *核心看点：彻底搞懂 OpenAI 与 Claude 风控底层机理，选用 IPQS < 15 原生住宅广播专线与专属分流策略组。*
+<a href="/guide/ladder-nodes-guide" style="display: flex; flex-direction: column; justify-content: space-between; padding: 1.5rem; border-radius: 12px; border: 1px solid var(--vp-c-border); background: var(--vp-c-bg-soft); text-decoration: none; color: inherit;">
+<div>
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.75rem;">
+<span style="font-size: 0.8rem; font-weight: 600; padding: 2px 8px; border-radius: 6px; background: rgba(139, 92, 246, 0.12); color: #8b5cf6;">🌐 节点拓扑实测</span>
+<span style="font-size: 0.8rem; color: var(--vp-c-text-3);">深港 20ms · 沪日 30ms</span>
+</div>
+<div style="font-size: 1.05rem; font-weight: 700; color: var(--vp-c-text-1); margin-bottom: 0.5rem; line-height: 1.4;">高质量梯子节点选购指南：港/日/美原生专线节点实测</div>
+<div style="font-size: 0.88rem; color: var(--vp-c-text-2); line-height: 1.6;">物理专线节点延迟解析，美区原生住宅 IP 纯净度检测，附节点超时变红排障实操与分流配置。</div>
+</div>
+<div style="margin-top: 1.25rem; font-size: 0.88rem; font-weight: 600; color: var(--vp-c-brand-1);">查阅专项指南 →</div>
+</a>
 
-- ⚡ **[2026 稳定率最高的梯子怎么选？三网千兆晚高峰 0 丢包物理专线推荐](/guide/stable-ladder-recommend)**  
-  *核心看点：解密晚高峰骨干网 QoS 激进化真相，横评 IPLC/IEPL 端到端物理专线长连接抗阻断机制。*
+<a href="/guide/ladder-recommendation-handbook" style="display: flex; flex-direction: column; justify-content: space-between; padding: 1.5rem; border-radius: 12px; border: 1px solid var(--vp-c-border); background: var(--vp-c-bg-soft); text-decoration: none; color: inherit;">
+<div>
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.75rem;">
+<span style="font-size: 0.8rem; font-weight: 600; padding: 2px 8px; border-radius: 6px; background: rgba(245, 158, 11, 0.12); color: #f59e0b;">📖 全场景选型攻略</span>
+<span style="font-size: 0.8rem; color: var(--vp-c-text-3);">按预算设备分级</span>
+</div>
+<div style="font-size: 1.05rem; font-weight: 700; color: var(--vp-c-text-1); margin-bottom: 0.5rem; line-height: 1.4;">梯子推荐场景选型全攻略：按预算、设备与真实场景</div>
+<div style="font-size: 0.88rem; color: var(--vp-c-text-2); line-height: 1.6;">按学生党 ¥15/月轻量尝鲜、极客开发 AI 办公、外贸跨境出海团队定制分级，全平台客户端最佳搭配。</div>
+</div>
+<div style="margin-top: 1.25rem; font-size: 0.88rem; font-weight: 600; color: var(--vp-c-brand-1);">查阅专项指南 →</div>
+</a>
+</div>
 
 ---
 
@@ -87,19 +125,87 @@ features:
 
 > 节点梯子拓扑社实验室严格遵循 E-E-A-T 独立客观审计规范，三网千兆宽带连续 30 天真实采样：
 
-- 🔒 **[可信云机场 2026 最新深度评测](/reviews/kexin-review)**（综合评分 9.2 · 2024老牌稳健）  
-  *¥15/月（60GB）轻量小包与 ¥96 年费礼包，全系搭载高效 VLESS 协议栈，深港 RTT 稳定在 23ms，晚高峰丢包率 < 0.1%。*
+<div style="display: flex; flex-direction: column; gap: 1.15rem; margin: 1.5rem 0 2rem 0;">
 
-- 🛡️ **[边缘节点机场 2026 最新深度评测](/reviews/bianyuan-review)**（综合评分 9.1 · 2026新锐低负载）  
-  *纯 IPLC 物理专线新机房，节点并发密度极低，晚高峰抗 QoS 阻断能力强，YouTube 8K 极清视频即拖即开。*
+<div style="padding: 1.25rem 1.5rem; border-radius: 12px; border: 1px solid var(--vp-c-border); background: var(--vp-c-bg-soft); display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem;">
+<div style="flex: 1 1 540px;">
+<div style="display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 0.5rem;">
+<span style="font-size: 1.1rem; font-weight: 700; color: var(--vp-c-text-1);">🔒 可信云机场 2026 深度实测</span>
+<span style="font-size: 0.78rem; font-weight: 700; padding: 2px 8px; border-radius: 6px; background: rgba(16, 185, 129, 0.15); color: #10b981;">9.2 分 · 2024老牌稳健</span>
+<span style="font-size: 0.78rem; padding: 2px 8px; border-radius: 6px; background: var(--vp-c-bg-mute); color: var(--vp-c-text-2);">深港 23ms</span>
+<span style="font-size: 0.78rem; padding: 2px 8px; border-radius: 6px; background: var(--vp-c-bg-mute); color: var(--vp-c-text-2);">晚高峰丢包 &lt; 0.1%</span>
+</div>
+<div style="font-size: 0.88rem; color: var(--vp-c-text-2); line-height: 1.5;">
+¥15/月（60GB）轻量小包与 ¥96 年费礼包，全系搭载高效 VLESS 协议栈，深港 RTT 稳定在 23ms，晚高峰丢包率 &lt; 0.1%。
+</div>
+</div>
+<div style="display: flex; align-items: center; gap: 0.75rem; white-space: nowrap;">
+<a href="/reviews/kexin-review" style="font-size: 0.88rem; font-weight: 600; padding: 6px 14px; border-radius: 6px; border: 1px solid var(--vp-c-border); background: var(--vp-c-bg-mute); color: var(--vp-c-text-1); text-decoration: none;">深度报告 →</a>
+<a href="/go/kexin" target="_blank" rel="nofollow sponsored noopener noreferrer" style="font-size: 0.88rem; font-weight: 600; padding: 6px 14px; border-radius: 6px; background: var(--vp-c-brand-1); color: #fff; text-decoration: none;">官网直达 ↗</a>
+</div>
+</div>
 
-- ⚡ **[速界机场 2026 最新深度评测](/reviews/sujie-review)**（综合评分 9.1 · IEPL低延迟专线）  
-  *端到端纯二层以太网专线，深港延迟实测仅 21ms，年付折合低至 ¥7.5/月，适合对延迟敏感的学生与科研用户。*
+<div style="padding: 1.25rem 1.5rem; border-radius: 12px; border: 1px solid var(--vp-c-border); background: var(--vp-c-bg-soft); display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem;">
+<div style="flex: 1 1 540px;">
+<div style="display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 0.5rem;">
+<span style="font-size: 1.1rem; font-weight: 700; color: var(--vp-c-text-1);">🛡️ 边缘节点机场 2026 深度实测</span>
+<span style="font-size: 0.78rem; font-weight: 700; padding: 2px 8px; border-radius: 6px; background: rgba(59, 130, 246, 0.15); color: #3b82f6;">9.1 分 · 2026新锐低载</span>
+<span style="font-size: 0.78rem; padding: 2px 8px; border-radius: 6px; background: var(--vp-c-bg-mute); color: var(--vp-c-text-2);">纯 IPLC 物理专线</span>
+<span style="font-size: 0.78rem; padding: 2px 8px; border-radius: 6px; background: var(--vp-c-bg-mute); color: var(--vp-c-text-2);">极高抗 QoS 能力</span>
+</div>
+<div style="font-size: 0.88rem; color: var(--vp-c-text-2); line-height: 1.5;">
+纯 IPLC 物理专线新机房，节点并发密度极低，晚高峰抗 QoS 阻断能力强，YouTube 8K 极清视频即拖即开。
+</div>
+</div>
+<div style="display: flex; align-items: center; gap: 0.75rem; white-space: nowrap;">
+<a href="/reviews/bianyuan-review" style="font-size: 0.88rem; font-weight: 600; padding: 6px 14px; border-radius: 6px; border: 1px solid var(--vp-c-border); background: var(--vp-c-bg-mute); color: var(--vp-c-text-1); text-decoration: none;">深度报告 →</a>
+<a href="/go/bianyuan" target="_blank" rel="nofollow sponsored noopener noreferrer" style="font-size: 0.88rem; font-weight: 600; padding: 6px 14px; border-radius: 6px; background: var(--vp-c-brand-1); color: #fff; text-decoration: none;">官网直达 ↗</a>
+</div>
+</div>
 
-- 🐱 **[快狸机场 2026 最新深度评测](/reviews/kuaili-review)**（综合评分 9.0 · 无套路直降）  
-  *年付折合仅 ¥10/月，全节点 1.0x 真实透明扣费，无复杂优惠券套路，轻量防失联与极简备用专线首选。*
+<div style="padding: 1.25rem 1.5rem; border-radius: 12px; border: 1px solid var(--vp-c-border); background: var(--vp-c-bg-soft); display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem;">
+<div style="flex: 1 1 540px;">
+<div style="display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 0.5rem;">
+<span style="font-size: 1.1rem; font-weight: 700; color: var(--vp-c-text-1);">⚡ 速界机场 2026 深度实测</span>
+<span style="font-size: 0.78rem; font-weight: 700; padding: 2px 8px; border-radius: 6px; background: rgba(139, 92, 246, 0.15); color: #8b5cf6;">9.1 分 · 极低延迟专线</span>
+<span style="font-size: 0.78rem; padding: 2px 8px; border-radius: 6px; background: var(--vp-c-bg-mute); color: var(--vp-c-text-2);">深港 21ms</span>
+<span style="font-size: 0.78rem; padding: 2px 8px; border-radius: 6px; background: var(--vp-c-bg-mute); color: var(--vp-c-text-2);">年付折合 ¥7.5/月起</span>
+</div>
+<div style="font-size: 0.88rem; color: var(--vp-c-text-2); line-height: 1.5;">
+端到端纯二层以太网专线，深港延迟实测仅 21ms，性价比极高，适合对延迟极其敏感的代码调试与科研用户。
+</div>
+</div>
+<div style="display: flex; align-items: center; gap: 0.75rem; white-space: nowrap;">
+<a href="/reviews/sujie-review" style="font-size: 0.88rem; font-weight: 600; padding: 6px 14px; border-radius: 6px; border: 1px solid var(--vp-c-border); background: var(--vp-c-bg-mute); color: var(--vp-c-text-1); text-decoration: none;">深度报告 →</a>
+<a href="/go/sujie" target="_blank" rel="nofollow sponsored noopener noreferrer" style="font-size: 0.88rem; font-weight: 600; padding: 6px 14px; border-radius: 6px; background: var(--vp-c-brand-1); color: #fff; text-decoration: none;">官网直达 ↗</a>
+</div>
+</div>
 
-- 更多深度报告欢迎查阅：[《深度横评与测速概览》](/reviews/) ｜ [《2026 梯子物理链路拓扑实测天梯榜》](/reviews/2026-ladder-benchmark-topology-ranking)
+<div style="padding: 1.25rem 1.5rem; border-radius: 12px; border: 1px solid var(--vp-c-border); background: var(--vp-c-bg-soft); display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem;">
+<div style="flex: 1 1 540px;">
+<div style="display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 0.5rem;">
+<span style="font-size: 1.1rem; font-weight: 700; color: var(--vp-c-text-1);">🐱 快狸机场 2026 深度实测</span>
+<span style="font-size: 0.78rem; font-weight: 700; padding: 2px 8px; border-radius: 6px; background: rgba(245, 158, 11, 0.15); color: #f59e0b;">9.0 分 · 无套路直降</span>
+<span style="font-size: 0.78rem; padding: 2px 8px; border-radius: 6px; background: var(--vp-c-bg-mute); color: var(--vp-c-text-2);">纯 1.0x 真实倍率</span>
+<span style="font-size: 0.78rem; padding: 2px 8px; border-radius: 6px; background: var(--vp-c-bg-mute); color: var(--vp-c-text-2);">年付折合 ¥10/月起</span>
+</div>
+<div style="font-size: 0.88rem; color: var(--vp-c-text-2); line-height: 1.5;">
+年付折合仅 ¥10/月，全节点 1.0x 真实透明扣费，无复杂优惠券套路，轻量防失联与极简备用专线首选。
+</div>
+</div>
+<div style="display: flex; align-items: center; gap: 0.75rem; white-space: nowrap;">
+<a href="/reviews/kuaili-review" style="font-size: 0.88rem; font-weight: 600; padding: 6px 14px; border-radius: 6px; border: 1px solid var(--vp-c-border); background: var(--vp-c-bg-mute); color: var(--vp-c-text-1); text-decoration: none;">深度报告 →</a>
+<a href="/go/kuaili" target="_blank" rel="nofollow sponsored noopener noreferrer" style="font-size: 0.88rem; font-weight: 600; padding: 6px 14px; border-radius: 6px; background: var(--vp-c-brand-1); color: #fff; text-decoration: none;">官网直达 ↗</a>
+</div>
+</div>
+
+</div>
+
+<div style="text-align: center; margin: 1.5rem 0 3.5rem 0;">
+<a href="/reviews/" style="display: inline-block; padding: 0.75rem 1.75rem; background: var(--vp-c-bg-mute); border: 1px solid var(--vp-c-border); color: var(--vp-c-text-1); border-radius: 8px; font-weight: 600; text-decoration: none;">
+👉 查看全部深度横评报告与《2026 梯子物理链路拓扑实测天梯榜》 →
+</a>
+</div>
 
 ---
 
