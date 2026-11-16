@@ -14,6 +14,17 @@ const commonSidebar = [
     ]
   },
   {
+    text: '跨境网络与技术科普',
+    items: [
+      { text: '📚 技术科普知识库总览', link: '/wiki/' },
+      { text: '📖 什么是机场与传统VPN区别', link: '/wiki/what-is-airport-vpn-differences' },
+      { text: '⚡ 主流梯子协议全解密 (VLESS/Hysteria2)', link: '/wiki/proxy-protocols-vless-trojan-hysteria' },
+      { text: '🌐 直连、BGP与IPLC专线拓扑解析', link: '/wiki/direct-bgp-iplc-iepl-topology-explained' },
+      { text: '🔒 原生IP、广播IP与住宅IP区别', link: '/wiki/native-residential-broadcast-ip-difference' },
+      { text: '🛠️ 规则分流原理与TUN模式避坑', link: '/wiki/rule-based-proxy-routing-tun-mode' }
+    ]
+  },
+  {
     text: '深度协议与线路横评',
     items: [
       { text: '深度横评与测速概览', link: '/reviews/' },
@@ -85,6 +96,17 @@ export default defineConfig({
           { text: '🛡️ 选型与避坑全指南', link: '/guide/avoid-pitfalls' }
         ]
       },
+      {
+        text: '技术科普',
+        items: [
+          { text: '📚 技术科普知识库总览', link: '/wiki/' },
+          { text: '📖 什么是机场与传统VPN区别', link: '/wiki/what-is-airport-vpn-differences' },
+          { text: '⚡ 主流梯子协议全解密 (VLESS/Hysteria2)', link: '/wiki/proxy-protocols-vless-trojan-hysteria' },
+          { text: '🌐 直连、BGP与IPLC专线拓扑解析', link: '/wiki/direct-bgp-iplc-iepl-topology-explained' },
+          { text: '🔒 原生IP、广播IP与住宅IP区别', link: '/wiki/native-residential-broadcast-ip-difference' },
+          { text: '🛠️ 规则分流原理与TUN模式避坑', link: '/wiki/rule-based-proxy-routing-tun-mode' }
+        ]
+      },
       { text: '深度横评', link: '/reviews/' },
       {
         text: '客户端指南',
@@ -103,6 +125,7 @@ export default defineConfig({
     sidebar: {
       '/recommend/': commonSidebar,
       '/guide/': commonSidebar,
+      '/wiki/': commonSidebar,
       '/reviews/': commonSidebar,
       '/about/': commonSidebar,
       '/clients/': [

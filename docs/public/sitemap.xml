@@ -269,4 +269,35 @@
     <lastmod>2026-10-08</lastmod>
     <priority>0.6</priority>
   </url>
+  <url>
+    <loc>https://ladderbenchmark.com/wiki/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ladderbenchmark.com/wiki/what-is-airport-vpn-differences</loc>
+    <lastmod>2026-11-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ladderbenchmark.com/wiki/proxy-protocols-vless-trojan-hysteria</loc>
+    <lastmod>2026-11-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ladderbenchmark.com/wiki/direct-bgp-iplc-iepl-topology-explained</loc>
+    <lastmod>2026-11-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ladderbenchmark.com/wiki/native-residential-broadcast-ip-difference</loc>
+    <lastmod>2026-11-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ladderbenchmark.com/wiki/rule-based-proxy-routing-tun-mode</loc>
+    <lastmod>2026-11-16</lastmod>
+    <priority>0.8</priority>
+  </url>
 </urlset>

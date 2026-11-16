@@ -223,4 +223,10 @@ features:
 ### Q4: 新手选择梯子时，如何避开“虚标倍率”与“跑路套路”？
 **答**：警惕“9.9 元买断一年 1000G”的严重超卖低价套路，这类平台极易因资金池断裂换皮跑路；同时在订阅前务必确认全节点是否执行 1.0x 真实透明扣费，警惕日常节点被悄悄设置成 5x / 10x 的倍率刺客。初次使用新品牌建议优先选择 15 元左右的月付小包进行实测。
 
+<div style="text-align: center; margin: 3rem 0 1rem 0;">
+<a href="/wiki/" style="display: inline-block; padding: 0.85rem 2rem; background: var(--vp-c-bg-mute); border: 1px solid var(--vp-c-brand-1); color: var(--vp-c-brand-1); border-radius: 8px; font-weight: 600; text-decoration: none;">
+📚 查阅《跨境网络与技术科普知识库》：系统搞懂机场、VPN、协议与专线底层原理 →
+</a>
+</div>
+
 </div>
