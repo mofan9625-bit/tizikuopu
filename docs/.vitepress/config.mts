@@ -10,6 +10,9 @@ const commonSidebar = [
       { text: '📖 2026 梯子推荐场景选型全攻略', link: '/guide/ladder-recommendation-handbook' },
       { text: '⚡ 2026 稳定率最高的梯子推荐', link: '/guide/stable-ladder-recommend' },
       { text: '🤖 2026 支持 ChatGPT 的梯子推荐', link: '/guide/chatgpt-claude-ai-ladder' },
+      { text: '💼 2026 高质量外贸线路梯子推荐', link: '/guide/foreign-trade-cross-border-ladder' },
+      { text: '🔌 2026 高端专线与 TCP 节点解析', link: '/guide/tcp-nodes-high-end-ladder' },
+      { text: '💰 2026 性价比高的梯子与流量型选型', link: '/guide/cost-effective-pay-as-you-go-ladder' },
       { text: '🛡️ 2026 梯子选型与防坑指南', link: '/guide/avoid-pitfalls' }
     ]
   },
