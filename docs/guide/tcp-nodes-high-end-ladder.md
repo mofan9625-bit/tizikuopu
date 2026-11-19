@@ -93,3 +93,4 @@ tags: [TCP节点梯子, 高端专线梯子, 梯子TCP协议节点, 长连接不�
 
 ### Q3: 手机端日常挂后台，TCP 节点和 UDP 节点哪个更省电？
 **答**：**TCP 节点（尤其是基于 Shadowsocks 的专线 TCP 节点）明显更省电**。现代手机芯片对标准 TCP/TLS 和 AES 加解密有硬件级硬件加速，无需像 Hysteria 2 那样频繁在后台暴力发包重传，长挂后台发热量极低。更多协议功耗对比详见 [《主流梯子协议全解密》](/wiki/proxy-protocols-vless-trojan-hysteria)。
+
