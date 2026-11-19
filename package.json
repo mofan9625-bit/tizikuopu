@@ -8,7 +8,8 @@
     "build": "vitepress build docs && node scripts/submit-indexnow.mjs",
     "docs:build": "vitepress build docs",
     "preview": "vitepress preview docs",
-    "indexnow": "node scripts/submit-indexnow.mjs"
+    "indexnow": "node scripts/submit-indexnow.mjs",
+    "gen-index": "node scripts/gen-index.js"
   },
   "keywords": [
     "vitepress",
